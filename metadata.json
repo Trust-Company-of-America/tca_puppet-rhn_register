@@ -1,20 +1,20 @@
 {
-  "name": "pcfens-rhn_register",
-  "version": "1.6.1",
+  "name": "tca_puppet_rhn_register",
+  "version": "1.6.2",
   "author": "pcfens",
   "summary": "Register a server with RHN, Spacewalk, or Satellite.",
   "license": "Apache-2.0",
-  "source": "https://github.com/pcfens/puppet-rhn_register",
-  "project_page": "https://github.com/pcfens/puppet-rhn_register",
-  "issues_url": "https://github.com/pcfens/puppet-rhn_register/issues",
+  "source": "https://github.com/ccombs-trustamerica/tca_puppet_rhn_register",
+  "project_page": "https://github.com/ccombs-trustamerica/tca_puppet_rhn_register",
+  "issues_url": "https://github.com/ccombs-trustamerica/tca_puppet_rhn_register/issues",
   "dependencies": [
     {
       "name": "pcfens/command_args",
-      "version_requirement": ">= 0.0.1 < 1.0.0"
+      "version_requirement": ">= 0.0.1"
     },
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": ">= 4.2.0 < 8.0.0"
+      "version_requirement": ">= 4.2.0"
     }
   ],
   "operatingsystem_support": [
@@ -30,7 +30,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 4.10.0 < 7.0.0"
+      "version_requirement": ">= 4.10.0"
     }
   ],
   "tags": [
