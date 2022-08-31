@@ -1,12 +1,12 @@
 {
-  "name": "tca_puppet_rhn_register",
-  "version": "1.6.2",
+  "name": "tca_puppet-rhn_register",
+  "version": "1.6.3",
   "author": "pcfens",
   "summary": "Register a server with RHN, Spacewalk, or Satellite.",
   "license": "Apache-2.0",
-  "source": "https://github.com/ccombs-trustamerica/tca_puppet_rhn_register",
-  "project_page": "https://github.com/ccombs-trustamerica/tca_puppet_rhn_register",
-  "issues_url": "https://github.com/ccombs-trustamerica/tca_puppet_rhn_register/issues",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-rhn_register",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-rhn_register",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet-rhn_register/issues",
   "dependencies": [
     {
       "name": "pcfens/command_args",
